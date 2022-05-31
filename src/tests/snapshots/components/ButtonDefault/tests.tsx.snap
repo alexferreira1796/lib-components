@@ -2,14 +2,16 @@
 
 exports[`<ButtonDefault /> should match snapshot 1`] = `
 <button
-  className="sc-bczRLJ gPZGaQ"
+  className="sc-bczRLJ wJsfp"
   color="#fff"
   height={80}
   role="button"
+  size={18}
   width={180}
 >
-  Default
-   
+  <span>
+    Default
+  </span>
   <img
     alt="Default"
     role="icon"
