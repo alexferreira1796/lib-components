@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ButtonDefault /> should match snapshot 1`] = `
+<button
+  className="sc-bczRLJ gPZGaQ"
+  color="#fff"
+  height={80}
+  role="button"
+  width={180}
+>
+  Default
+   
+  <img
+    alt="Default"
+    role="icon"
+    src="/icons/check.svg"
+  />
+</button>
+`;

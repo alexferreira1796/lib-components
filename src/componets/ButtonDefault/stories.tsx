@@ -1,10 +1,10 @@
-import Button, { ButtonProps } from ".";
+import ButtonDefault, { ButtonDefaultProps } from ".";
 
 import { Check } from "assets/icons";
 
 export default {
-  title: "Button",
-  component: Button,
+  title: "ButtonDefault",
+  component: ButtonDefault,
   argTypes: {
     text: {
       control: {
@@ -39,7 +39,7 @@ export default {
   },
 };
 
-const Template = (args: ButtonProps) => <Button {...args} />;
+const Template = (args: ButtonDefaultProps) => <ButtonDefault {...args} />;
 
 export const Default = Template.bind({});
 Default.args = {

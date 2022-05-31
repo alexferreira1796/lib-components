@@ -7,7 +7,7 @@ interface ButtonProps {
   color: string;
 }
 
-export const Container = styled.button<ButtonProps>`
+export const Button = styled.button<ButtonProps>`
   width: ${({ width }) => width}px;
   height: ${({ height }) => height}px;
   background: ${({ bgColor }) => bgColor};
