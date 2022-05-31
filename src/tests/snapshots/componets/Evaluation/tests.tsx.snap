@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Evaluation /> should match snapshot 1`] = `
+<div
+  className="sc-bczRLJ fTvPAj"
+>
+  <img
+    alt="star"
+    data-testid="star-solid"
+    src="/icons/star.svg"
+  />
+  <img
+    alt="star"
+    data-testid="star-solid"
+    src="/icons/star.svg"
+  />
+  <img
+    alt="star"
+    data-testid="star-solid"
+    src="/icons/star.svg"
+  />
+  <img
+    alt="star"
+    data-testid="star-solid"
+    src="/icons/star.svg"
+  />
+  <img
+    alt="star"
+    data-testid="star-mid"
+    src="/icons/star-mid.svg"
+  />
+</div>
+`;
